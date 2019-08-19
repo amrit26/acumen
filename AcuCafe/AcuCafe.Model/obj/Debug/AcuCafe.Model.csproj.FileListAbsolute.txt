@@ -1,0 +1,6 @@
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Model\bin\Debug\AcuCafe.Model.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Model\bin\Debug\AcuCafe.Model.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Model\obj\Debug\AcuCafe.Model.csprojAssemblyReference.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Model\obj\Debug\AcuCafe.Model.csproj.CoreCompileInputs.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Model\obj\Debug\AcuCafe.Model.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Model\obj\Debug\AcuCafe.Model.pdb

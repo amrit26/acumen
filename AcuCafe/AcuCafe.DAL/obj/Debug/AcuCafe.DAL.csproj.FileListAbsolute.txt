@@ -1,0 +1,6 @@
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.DAL\bin\Debug\AcuCafe.DAL.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.DAL\bin\Debug\AcuCafe.DAL.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.DAL\obj\Debug\AcuCafe.DAL.csprojAssemblyReference.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.DAL\obj\Debug\AcuCafe.DAL.csproj.CoreCompileInputs.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.DAL\obj\Debug\AcuCafe.DAL.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.DAL\obj\Debug\AcuCafe.DAL.pdb

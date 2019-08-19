@@ -1,0 +1,9 @@
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\bin\Debug\AcuCafe.Logic.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\bin\Debug\AcuCafe.Logic.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\obj\Debug\AcuCafe.Logic.csproj.CoreCompileInputs.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\obj\Debug\AcuCafe.Logic.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\obj\Debug\AcuCafe.Logic.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\bin\Debug\AcuCafe.DAL.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\bin\Debug\AcuCafe.DAL.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\obj\Debug\AcuCafe.Logic.csprojAssemblyReference.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Logic\obj\Debug\AcuCafe.Logic.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\bin\Debug\AcuCafe.App.exe.config
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\bin\Debug\AcuCafe.App.exe
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\bin\Debug\AcuCafe.App.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\obj\Debug\AcuCafe.App.csprojAssemblyReference.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\obj\Debug\AcuCafe.App.csproj.CoreCompileInputs.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\obj\Debug\AcuCafe.App.exe
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\obj\Debug\AcuCafe.App.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\bin\Debug\AcuCafe.DAL.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\bin\Debug\AcuCafe.DAL.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.App\obj\Debug\AcuCafe.App.csproj.CopyComplete

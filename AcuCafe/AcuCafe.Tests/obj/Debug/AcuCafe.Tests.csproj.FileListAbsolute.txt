@@ -1,0 +1,11 @@
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\bin\Debug\AcuCafe.Tests.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\bin\Debug\AcuCafe.Tests.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\obj\Debug\AcuCafe.Tests.csprojAssemblyReference.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\obj\Debug\AcuCafe.Tests.csproj.CoreCompileInputs.cache
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\obj\Debug\AcuCafe.Tests.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\obj\Debug\AcuCafe.Tests.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\bin\Debug\AcuCafe.Logic.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\bin\Debug\AcuCafe.Logic.pdb
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\obj\Debug\AcuCafe.Tests.csproj.CopyComplete
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\bin\Debug\AcuCafe.DAL.dll
+C:\Users\amrit.heer\source\repos\acumen\AcuCafe\AcuCafe.Tests\bin\Debug\AcuCafe.DAL.pdb
